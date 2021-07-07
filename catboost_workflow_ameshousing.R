@@ -8,10 +8,9 @@ library(butcher)
 library(knitr)
 library(remotes)
 library(devtools)
-
-remotes::install_github("curso-r/treesnip")
+#remotes::install_github("curso-r/treesnip")
 library(treesnip)
-devtools::install_github('catboost/catboost', subdir = 'catboost/R-package')
+#devtools::install_github('catboost/catboost', subdir = 'catboost/R-package')
 library(catboost)
 
 

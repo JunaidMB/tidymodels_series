@@ -179,9 +179,9 @@
       "RemoteRepo": "catboost",
       "RemoteUsername": "catboost",
       "RemoteRef": "HEAD",
-      "RemoteSha": "9812062844ce9bac1481a80620e0794c8b9eacb7",
+      "RemoteSha": "af7736d3a98774f6cbb16693a18bd44aa9d0fff8",
       "RemoteSubdir": "catboost/R-package",
-      "Hash": "1fae42543d345ccc01b5b0a0b5c2ed8c"
+      "Hash": "588cc4193b8e9652de7fdede64da3bb3"
     },
     "cellranger": {
       "Package": "cellranger",
